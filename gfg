@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript in Body</h2>
+
+<p id="demo">JESUS CHRIST</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "yoniggd"'>
+click me
+</button>
+
+</body>
+</html> 
